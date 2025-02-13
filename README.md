@@ -7,6 +7,7 @@ o	Provided strategic recommendations for product expansion and marketing optimiz
 
 o	Tools Used: Power BI, SQL, Excel, Python.
 
+### LinkedIn Url  :https://www.linkedin.com/posts/putuka-ramanjaneyulu-2128r_dominos-salesdashboard-dataanalytics-activity-7292908818433290240-8XRu?utm_source=share&utm_medium=member_desktop
 
 
 
