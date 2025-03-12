@@ -12,6 +12,6 @@ o	Tools Used: Power BI, SQL, Excel, Python.
 
 
 
+![project2](https://github.com/user-attachments/assets/b7759e52-0aec-4a5f-bd38-91d888315f1b)
 
 
-![Domino's Dashboard](https://github.com/user-attachments/assets/751a97a6-1460-4e2b-a80e-ba051f75ee90)
